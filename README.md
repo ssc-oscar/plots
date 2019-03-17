@@ -1,7 +1,7 @@
 # Obtaining and plotting language and dependency trends
 
 
-1. First extract relevant parts of the data (see grepNew.pbs)
+1. First extract relevant parts of the data (see grepNew.pbs and overview/deps/b2pkgs*)
 1. Next calculate relevants stats
 ```
 ver=N
